@@ -1,0 +1,36 @@
+/***********************************
+*
+* Autor: Paweł Gdaniec course HTML and CSS
+* Data: 26.03.18
+*
+************************************/
+
+body {
+    background-color: #cce0ff;
+    text-align: center;
+}
+
+.welcome{
+    border: none;
+}
+
+/* style of p tags */
+
+p{
+    font-size: 18;
+    color: blue;
+    border: 1px solid black;
+}
+
+#header p {
+    font-size: 24px;
+    border: none;
+}
+
+
+
+/* style all header tags */
+
+h1{
+    font-size: 44px;
+}

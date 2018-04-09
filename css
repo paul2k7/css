@@ -1,0 +1,19 @@
+span[class~="deck"]{    /*   span zawierający atrybut class i
+                                ~przynajmniej zawiera 'deck'    */
+    color: purple;
+}
+
+
+div[id]{                /*   div zawierający atrybut id    */
+    background: grey;
+}
+
+
+a[href^="http"]{        /*   ^ - zaczynający się link na http    */
+    color: pink;
+}
+
+
+a[href$="pdf"]{         /*   $ - plik z rozszerzeniem .pdf    */
+    color: green;
+}
